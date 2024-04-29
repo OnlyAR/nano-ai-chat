@@ -120,8 +120,8 @@ pip install -r requirements.txt
 
 请选择你的模型，本项目下载源是国内站（Modelscope），如需使用 huggingface 请自行努力，可选择的模型列表：
 
-| 名称                 | template | path                     |主页 |
-| -------------------- | -------- | ------------------------ | |
+| 名称                 | template | path                     | 主页 |
+| -------------------- | -------- | ------------------------ | --- |
 | Qwen1.5-0.5B-Chat    | qwen     | qwen/Qwen1.5-0.5B-Chat   | [通义千问1.5-0.5B-Chat · 模型库 (modelscope.cn)](https://www.modelscope.cn/models/qwen/Qwen1.5-0.5B-Chat/summary) |
 | Qwen1.5-1.8B-Chat | qwen | qwen/Qwen1.5-1.8B-Chat | [通义千问1.5-1.8B-Chat · 模型库 (modelscope.cn)](https://www.modelscope.cn/models/qwen/Qwen1.5-1.8B-Chat/summary) |
 | Qwen1.5-4B-Chat | qwen | qwen/Qwen1.5-4B-Chat | [通义千问1.5-4B-Chat · 模型库 (modelscope.cn)](https://www.modelscope.cn/models/qwen/Qwen1.5-4B-Chat/summary) |
